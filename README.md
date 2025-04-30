@@ -12,5 +12,5 @@
 - (Optional) High Score tracking  
 
 ## 🎮 Demo
-![Snake Game Screenshot](assets/game.png)
+![Snake Game Screenshot](/game.png)
 
